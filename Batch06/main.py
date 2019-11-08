@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #b18115 - Harish Jaglan
+#b18037 - Vivek Moar
 import pandas as pd
 
 data = pd.read_csv("group6.csv")
