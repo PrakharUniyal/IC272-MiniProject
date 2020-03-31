@@ -1,4 +1,8 @@
-# Description of Dataset and Problem Statement
+# IC272-MiniProject
+
+## Description of Dataset and Problem Statement
+
+![BNG Architecture](https://github.com/PrakharUniyal/IC272-MiniProject/blob/master/img/bngarch.jpg)
 
 This dataset contains data of performance of a broadband gateway network (BNG) device. BNG device is the access point for subscribers, through which they connect to the broadband network. When a connection is established between BNG device and CustomerPremise Equipment (CPE), the subscriber can access the broadband services provided by the Network Service Provider (NSP) or Internet Service Provider (ISP). A network management company monitors the performance of each of the BNG devices to provide better services. The company records different performance measures (PMs) for every 15 minutes. A description of different columns i.e.attributes (PMs) in this dataset is detailed below.
 
